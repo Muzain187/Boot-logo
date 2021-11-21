@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=mohammad_ashraf
+Description=display mohammad_ashraf
+Comment=created By Mohammad Ashraf (@mohammad_ashraf)
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mohammad_ashraf
+ScriptFile=/usr/share/plymouth/themes/mohammad_ashraf/mohammad_ashraf.script
