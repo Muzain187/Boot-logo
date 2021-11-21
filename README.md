@@ -1,4 +1,4 @@
-# Boot-logo
+# Boot-logo animation
 This project is used to change the current logo animation of our **linux OS** to our custom logo animation
 
 here we need to install some of the tools
