@@ -1,7 +1,7 @@
 # Boot-logo
-This project is used to change the current logo of our **linux OS** to our custom logo
+This project is used to change the current logo animation of our **linux OS** to our custom logo animation
 
-here we need to run some of the command
+here we need to install some of the tools
 
 
 1.`sudo apt install plymouth`
